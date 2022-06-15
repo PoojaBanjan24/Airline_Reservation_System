@@ -1,0 +1,8 @@
+body
+{
+  background-color: SkyBlue;
+  width:1000;
+  background-image: url("bg6.jpg");
+  /* background-repeat: no-repeat; */
+  background-attachment:fixed;
+}
