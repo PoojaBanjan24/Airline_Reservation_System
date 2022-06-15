@@ -1,0 +1,93 @@
+body{
+    background-image: url(bg6.jpg);
+}
+h1{
+    text-align: center;
+}
+.banner{
+    width: 1519px;
+    height: 300px
+}
+.he{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.diversity{
+    display: flex;
+    width: 100px;
+}
+.p1{
+    display: inline-block;
+}
+.p2{
+    display: inline-block;
+}
+.info{
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+    font-size: larger;
+    display: inline-block;
+}
+.divpic{
+    display: inline-block;
+    width: 500px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    border: 1px;
+    border-radius: 5%;
+}
+.cultures{
+    display: flex;
+    margin: 0 -5px;
+}
+.c{
+    margin-left: 50px;
+}
+#more{
+    display: none;
+}
+.entert{
+    margin: 0 50px;
+}
+.celeb{
+    margin: 0 50px;
+}
+.talent{
+    margin: 0 50px;
+}
+.des{
+    margin: 0 50px;
+    font-size: larger;
+}
+#myBtn{
+    margin: 0 50px;
+    padding-left: 10px;
+}
+h3{
+    margin: 0 50px;
+}
+.textcul1{
+    display: inline-block;
+}
+.textcul2{
+    display: inline-block;
+}
+.texts{
+    display: flex;
+}
+.bt{
+    margin-left: 70px;
+}
+#d1{
+    margin-left: 70px;
+    text-align: justify;
+}
+.btr{
+    margin-left: 150px;
+}
+#d2{
+    margin-left:150px ;
+}

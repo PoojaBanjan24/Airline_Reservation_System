@@ -1,0 +1,114 @@
+body{
+    background-image: url(bg6.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
+.bookingbox{
+    max-width: 350px;
+    border: 1px solid #ced4da ;
+    margin: 10% auto 0;
+}
+.radiobtn{
+    margin: 0 20px;
+}
+.radiobtn .btn{
+    margin: 20px 10px 20px 0;
+    box-shadow: none;
+}
+.radiobtn .btn::after{
+    content: '';
+    height: 15px;
+    width: 15px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    display: inline-block;
+    visibility: visible;
+    border-radius: 50%;
+}
+.radiobtn .btn::after:checked{
+    content: '';
+    background-color: #000;
+    transition: 0.5s;
+}
+.radiobtn span{
+    color: black;
+    margin-right:5px;
+    font-size: 12px;
+}
+.bookingform{
+    padding: 0 20px 20px;
+}
+.bookingform label{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    color: black;
+}
+input::placeholder{
+    color: grey !important;
+}
+.input-grp{
+    width: 151px;
+    display: inline-block;
+    color: #000;
+}
+.form-control{
+    font-size: 12px;
+    border-radius: 0;
+    color: #fff;
+    background: transparent;
+    box-shadow: none;
+}
+.select-date::-webkit-inner-spin-button,
+.select-date::-webkit-outer-spin-button
+{
+    -webkit-appearance: none;
+    margin: 0;
+}
+.select-date::-webkit-calender-picker-indicator
+{
+    background: transparent!important;
+}
+.custom-select
+{
+    color: black!important;
+    font-size: 12px!important;
+    border: 1px solid #ced4da!important;
+    box-shadow: none!important;
+    border-radius: 0!important;
+    background: transparent!important;
+}
+.custom-select option
+{
+    color: #333;
+}
+.flight
+{
+    width: 100%;
+    padding: 9px 0;
+    color: #000;
+    font-size: 12px;
+    border: 1px solid #ced4da!important;
+    box-shadow: none!important;
+    border-radius: 0!important;
+}
+.flight:hover
+{
+   background: #fff!important; 
+    color: #000!important;
+    transition: 0.5s;
+}
+p{
+    color: #000;
+}
+#uni{
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+}
