@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+*{
+    display: flexbox;
+}
+body{
+    background-image: url(bg6.jpg);
+    font-size: larger;
+    color:black;
+    font-weight: bolder;
+    background-size: 1600px 250px;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: aqua;
+    font-size: xx-large;
+}
+.ref{
+    text-align: center;
+    width: 1100px;
+    height: 39px;
+    padding-top: 1px;
+}
+.l1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.a1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+.prohib{
+    padding-top: 20px;
+}
+img{
+    padding-left: 130px;
+}
+.bag{
+    font-size: x-large;
+    
+}
+.l2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.baggage{
+    border: 2px solid black;
+    display: flexbox
+}
+.refunds{
+    border: 2px solid black;
+}
+.l3{
+    padding-left: 8px;
+    font-size: x-large;
+}

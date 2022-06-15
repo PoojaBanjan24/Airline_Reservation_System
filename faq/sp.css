@@ -1,0 +1,26 @@
+h3{
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.t2{
+    font-size: x-large;
+}
+.move{
+    font-size: larger;
+    padding-top: 20px;
+    display: flexbox;
+}
+.t3{
+    padding-top: 10px;
+}
+.i1{
+    display: flexbox;
+    padding-right: 150px;
+    width: 400px;
+    height: 250px;
+}
+.p1{
+    padding-top: 50px;
+    font-size: x-large;
+    padding-left: 40px;
+}
